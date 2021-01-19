@@ -1,7 +1,11 @@
 html {
     font-family: Cambria;
+    text-align: center;
 
 }
 a :hover {
     color: red;
+}
+input {
+    margin-bottom: 1%;
 }
